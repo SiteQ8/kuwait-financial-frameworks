@@ -11,7 +11,6 @@ The financial regulatory landscape can be fragmented and difficult to navigate. 
 The repository is organized by the primary regulatory and governing bodies:
 
 * **`/Central_Bank_of_Kuwait_(CBK)`**: Regulations for banks, payments, and financial stability.
-* **`/Capital_Markets_Authority_(CMA)`**: Bylaws and decisions for capital markets and investment activities.
 * **`/CITRA`**: Frameworks from the Communication and Information Technology Regulatory Authority.
 * **`/National_Cyber_Security_Center_(NCSC)`**: National frameworks and standards for cybersecurity.
 * **`/Ministry_of_Interior_(MOI)`**: Directives related to digital identity (KYC), cybercrime, and residency.
