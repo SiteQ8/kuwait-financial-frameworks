@@ -6,7 +6,7 @@ Welcome to the **Kuwait Financial & Fintech Frameworks** repository. This projec
 
 The financial regulatory landscape can be fragmented and difficult to navigate. This repository solves that problem by providing a single, organized source of truth for entrepreneurs, developers, legal professionals, and researchers.
 
-## ဖွဲ့ Structure
+## 📄 Structure
 
 The repository is organized by the primary regulatory and governing bodies:
 
