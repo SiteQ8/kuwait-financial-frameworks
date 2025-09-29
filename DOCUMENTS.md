@@ -6,11 +6,12 @@ This is a checklist of key regulatory documents to find and upload to the reposi
 
 ## 🏛️ Central Bank of Kuwait (CBK)
 
-**Primary Source:** [CBK Supervision & Regulations Portal](https://www.cbk.gov.kw/en/supervision-and-regulations/cbk-regulations)
+**Primary Source:** [Cybersecurity Framework](https://www.cbk.gov.kw/en/images/csf-feb-2020-1_v00_tcm10-148304.pdf)
 
 ### Key Documents:
 - [ ] Cybersecurity Framework for the Kuwaiti Banking Sector
 - [ ] Regulatory Sandbox Framework
+- [ ] Open Banking Regulatory
 - [ ] Guidelines for the Establishment of Digital Banks
 - [ ] Regulation of Electronic Payment and Settlement Services
 - [ ] All relevant AML/CFT Circulars
@@ -22,21 +23,16 @@ This is a checklist of key regulatory documents to find and upload to the reposi
 **Primary Source:** [CITRA Website](https://www.citra.gov.kw/en/)
 
 ### Key Documents:
-- [ ] Kuwait Cloud Computing Framework
-- [ ] Data Classification Policy
-- [ ] E-Signature & E-Transaction Regulations
-- [ ] Data Center & Hosting Regulations
+- [ ] National Cybersecurity Strategy 2022-2025
 
 ---
 
 ## 🛡️ National Cyber Security Center (NCSC)
 
-**Primary Source:** [NCSC Website](https://ncsc.gov.kw/)
+**Primary Source:** [NCSC Website]()
 
 ### Key Documents:
-- [ ] National Cybersecurity Strategy 2022-2025
-- [ ] Critical National Infrastructure (CNI) Cybersecurity Framework
-- [ ] Published standards, controls, and advisories
+
 
 ---
 
