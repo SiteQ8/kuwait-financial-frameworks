@@ -33,3 +33,7 @@ This repository is maintained by the community and is for informational purposes
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Author
+
+Maintained by [SiteQ8](https://github.com/SiteQ8).
