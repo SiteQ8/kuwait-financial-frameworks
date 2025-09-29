@@ -8,12 +8,15 @@ The financial regulatory landscape can be fragmented and difficult to navigate. 
 
 ## ဖွဲ့ Structure
 
-The repository is organized by the primary regulatory body:
+The repository is organized by the primary regulatory and governing bodies:
 
-* **`/Central_Bank_of_Kuwait_(CBK)`**: Contains all regulations, circulars, and frameworks issued by the CBK, categorized by topic (e.g., Cybersecurity, Payments, Fintech).
-* **`/Capital_Markets_Authority_(CMA)`**: Holds the CMA's executive bylaws, rulebooks, and decisions related to capital markets and investment activities.
-* **`/General_Legislation`**: Includes overarching laws that impact the financial sector, such as data protection and e-transaction laws.
-* **`/_Archive`**: Contains older, superseded versions of regulations for historical reference.
+* **`/Central_Bank_of_Kuwait_(CBK)`**: Regulations for banks, payments, and financial stability.
+* **`/Capital_Markets_Authority_(CMA)`**: Bylaws and decisions for capital markets and investment activities.
+* **`/CITRA`**: Frameworks from the Communication and Information Technology Regulatory Authority.
+* **`/National_Cyber_Security_Center_(NCSC)`**: National frameworks and standards for cybersecurity.
+* **`/Ministry_of_Interior_(MOI)`**: Directives related to digital identity (KYC), cybercrime, and residency.
+* **`/General_Legislation`**: Overarching laws that impact the entire digital and financial sector.
+* **`/_Archive`**: Older, superseded versions of regulations for historical reference.
 
 ## 🙌 How to Contribute
 
