@@ -13,7 +13,8 @@ The repository is organized by the primary regulatory and governing bodies:
 * **`/Central_Bank_of_Kuwait_(CBK)`**: Regulations for banks, payments, and financial stability.
 * **`/CITRA`**: Frameworks from the Communication and Information Technology Regulatory Authority.
 * **`/National_Cyber_Security_Center_(NCSC)`**: National frameworks and standards for cybersecurity.
-* **`/Ministry_of_Interior_(MOI)`**: Directives related to digital identity (KYC), cybercrime, and residency.
+* **`/Ministry_of_Interior_(MOI)`**: Directives related to MOI, cybercrime, and residency.
+* **`/PCI_Documents`**: Directives related to Payment Card Industry.
 * **`/General_Legislation`**: Overarching laws that impact the entire digital and financial sector.
 * **`/_Archive`**: Older, superseded versions of regulations for historical reference.
 
