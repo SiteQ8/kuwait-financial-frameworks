@@ -15,6 +15,7 @@ The repository is organized by the primary regulatory and governing bodies:
 * **`/National_Cyber_Security_Center_(NCSC)`**: National frameworks and standards for cybersecurity.
 * **`/Ministry_of_Interior_(MOI)`**: Directives related to MOI, cybercrime, and residency.
 * **`/PCI_Documents`**: Directives related to Payment Card Industry.
+* **`/SWIFT_CSP`**: Directives related to SWIFT Payment.
 * **`/General_Legislation`**: Overarching laws that impact the entire digital and financial sector.
 * **`/_Archive`**: Older, superseded versions of regulations for historical reference.
 
